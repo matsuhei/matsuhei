@@ -43,5 +43,3 @@ I'm a backend engineer.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matsuhei&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsuhei&layout=compact&theme=dark)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=matsuhei&theme=gitdimmed)
